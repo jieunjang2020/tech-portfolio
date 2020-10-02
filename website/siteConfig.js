@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Jieun Jang', // Title for your website.
-    tagline: 'Self-motivated and action-oriented technologist.',
+    tagline: 'Continuously improving, aspiring technologist',
     profilePhoto: 'img/profile.png',
     url: 'https://jieunjang2020.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
